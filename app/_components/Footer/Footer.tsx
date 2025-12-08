@@ -12,11 +12,11 @@ export default function Footer() {
                     </li>
 
                     <li className={styles.item}>
-                        <a href="/news">メンバー</a>
+                        <a href="/members">メンバー</a>
                     </li>
 
                     <li className={styles.item}>
-                        <a href="/news">お問い合わせ</a>
+                        <a href="/contact">お問い合わせ</a>
                     </li>
 
                 </ul>
